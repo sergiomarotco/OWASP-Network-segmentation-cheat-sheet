@@ -1,8 +1,9 @@
 # Network segmentation Cheat Sheet
 
-## Official publication in OWASP
+## Official publication in the OWASP
 
 This cheat sheet was officially published by the link [cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org/cheatsheets/Network_Segmentation_Cheat_Sheet.html) by the [pull request 1036](https://github.com/OWASP/CheatSheetSeries/issues/1036).
+The latest source text is available at the link: [Network_Segmentation_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Network_Segmentation_Cheat_Sheet.md).
 
 ## Introduction
 
