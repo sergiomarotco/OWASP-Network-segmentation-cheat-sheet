@@ -1,5 +1,9 @@
 # Network segmentation Cheat Sheet
 
+## Official publication in OWAS
+
+This cheat sheet was officially published by the link [cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org/cheatsheets/Network_Segmentation_Cheat_Sheet.html) by the [pull request 1036](https://github.com/OWASP/CheatSheetSeries/issues/1036).
+
 ## Introduction
 
 Network segmentation is the core of multi-layer defense in depth for modern services. Segmentation slow down an attacker if he cannot implement attacks such as:
